@@ -1,0 +1,10 @@
+/build
+# Android Studio
+*.iml
+*.ipr
+*.iws
+.gradle/**
+build/**
+.idea/**
+import-summary.txt
+
