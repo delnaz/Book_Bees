@@ -11,3 +11,9 @@ Bibliophile is an android app that makes person to person book lending/borrowing
 * [ ] On click of the book list item, user sees the detailed view of the book
  * [ ] User gets an option to either borrow the book or cancel the process.
 * [ ] Lender uploads the details of the book he has on click of the "POST" button on the toolbar, along with the ISBN code which is then visible to any borrower in their book list
+
+# Wireframes 
+
+![alt-tag] (https://github.com/delnaz/Book_Bees/blob/master/2016-08-15T18-37-03-516.jpeg)
+![alt-tag] (https://github.com/delnaz/Book_Bees/blob/master/2016-08-15T18-37-03-518.jpeg)
+![alt-tag] (https://github.com/delnaz/Book_Bees/blob/master/2016-08-15T18-37-03-519.jpeg)
